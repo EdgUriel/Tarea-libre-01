@@ -1,0 +1,1 @@
+Esta es una pagina web simple usando Spring Boot para el backend y retornar un JSON para ser procesado en el hmtl por medio de Thymeleaf mostrando los datos contenidos en el JSON con un cierto formato dado por el css siguiendo la estructura html, por el momento solo se puede visualizar ingresando el id del producto en la URL, ejemplo, .../api/1
